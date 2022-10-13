@@ -22,12 +22,6 @@ Maven Central Repository: https://search.maven.org/artifact/com.garmin.connectiq
 </dependency>
 ```   
 
-#### GRADLE
-
-```
-implementation("com.garmin.connectiq:monkeybrains:1.0.2")
-```
-
 ## Samples
 
 #### Comm Android Sample
