@@ -12,16 +12,6 @@
 Maven Central Repository: https://search.maven.org/artifact/com.garmin.connectiq/monkeybrains        
 ↓ Latest JAR https://search.maven.org/remote_content?g=com.garmin.connectiq&a=monkeybrains&v=LATEST
 
-#### MAVEN
-
-```
-<dependency>          
-    <groupId>com.garmin.connectiq</groupId>          
-    <artifactId>monkeybrains</artifactId>
-    <version>1.0.2</version>  
-</dependency>
-```   
-
 ## Samples
 
 #### Comm Android Sample
